@@ -31,6 +31,6 @@ int fastExpo(int a, long long n, int MOD)
 
 int main()
 {
-    cout << fastExpo(7, 7, 1000000007);
+    cout << fastExpo(7, 4, 1000000007);
     return 0;
 }
