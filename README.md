@@ -23,7 +23,12 @@
   <tr>
     <td>2</td>
     <td>
-        <h3>Arrays</h3><hr>
+        <li>Prime No. Test</li>
+         <li>Prime Factorization</li>
+         <li>Sieve of Eratosthenes</li>
+         <li>Fast Modular Exponentiation - Iterative Implementation</li>
+         <li>Fast Modular Exponentiation - Recursive Implementation</li>
+        <li>Pigeonhole Principle</li>
     </td>
   </tr>
     
