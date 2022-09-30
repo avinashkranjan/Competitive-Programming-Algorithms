@@ -6,6 +6,8 @@ const int Nmax = 100001; //defining Nmax
 
 int s[Nmax];
 
+
+// funtion fot partial sum
 void partialSums(int a[], int n)
 {
     s[1] = a[1];
@@ -16,6 +18,7 @@ long long Query(int x, int y)
 {
     return s[y] - s[x - 1];
 }
+ // Driver code
 
 int main()
 {
